@@ -4,7 +4,7 @@
 
 Construyo productos de software completos y los pongo en producción: app móvil, API, base de datos, tiempo real e infraestructura. Además tengo base de investigación en **IA eficiente** (modelos más pequeños, rápidos y baratos de ejecutar) y experiencia en proyectos STEM, IoT, sistemas embebidos y diseño de hardware digital con Verilog. Esa mezcla me permite llevar una idea desde el experimento hasta una aplicación que la gente usa.
 
-🌎 **Disponible para trabajo remoto** como ingeniero fullstack, desarrollador móvil (Flutter) o ingeniero de IA aplicada. Preferentemente por contrato.
+🌎 **Disponible para trabajo remoto** como ingeniero fullstack, desarrollador móvil (Flutter), ingeniero de IA aplicada o consultor en alguna de éstas áreas. Preferentemente por contrato.
 
 ## 🔧 Qué hago
 
