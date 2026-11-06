@@ -12,7 +12,7 @@ Construyo productos de software completos y los pongo en producción: app móvil
 - **Apps móviles y plataformas en producción:** Flutter/Dart con mapas, geolocalización, seguimiento en vivo y publicación en Google Play; marketplaces y servicios de entregas.
 - **Productos con IA e integración de plataformas:** funciones de IA dentro de aplicaciones reales, como un monitor de precios con sugerencias generadas por IA, y plataformas de IA conectadas a otros sistemas mediante APIs.
 - **IA eficiente para dispositivos de bajos recursos:** cuantización y compresión de modelos.
-- **Optimización y cómputo evolutivo:** evolución diferencial y búsqueda multiobjetivo.
+- **Optimización y cómputo evolutivo:** evolución diferencial y búsqueda multiobjetivo, por mencionar algunos.
 - **Hardware, IoT y sistemas embebidos:** proyectos STEM y diseño de circuitos y hardware digital con Verilog.
 - **Robótica:** planeación de rutas para robots móviles y vehículos autónomos.
 
