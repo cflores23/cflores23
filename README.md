@@ -4,13 +4,13 @@
 
 Construyo productos de software completos y los pongo en producción: app móvil, API, base de datos, tiempo real e infraestructura. Además tengo base de investigación en **IA eficiente** (modelos más pequeños, rápidos y baratos de ejecutar) y experiencia en proyectos STEM, IoT, sistemas embebidos y diseño de hardware digital con Verilog. Esa mezcla me permite llevar una idea desde el experimento hasta una aplicación que la gente usa.
 
-🌎 **Disponible para trabajo remoto** como ingeniero fullstack, desarrollador móvil (Flutter), ingeniero de IA aplicada o consultor en alguna de éstas áreas. Preferentemente por contrato.
+🌎 **Disponible para trabajo remoto** como ingeniero fullstack, desarrollador móvil (Flutter) o ingeniero de IA aplicada. Preferentemente por contrato.
 
 ## 🔧 Qué hago
 
-- **Desarrollo fullstack de extremo a extremo:** interfaz, APIs REST, servicios en tiempo real (WebSockets), bases de datos relacionales, autenticación y despliegue en la nube.
-- **Apps móviles en producción:** desarrollo en Flutter/Dart, con mapas, geolocalización, seguimiento en vivo y publicación en Google Play.
-- **SaaS y productos con IA:** funciones de IA integradas en aplicaciones reales, como un monitor de precios con sugerencias generadas por IA.
+- **Desarrollo fullstack de extremo a extremo:** interfaz, APIs REST, servicios en tiempo real (WebSockets), bases de datos relacionales, autenticación multirol y despliegue en la nube.
+- **Apps móviles y plataformas en producción:** Flutter/Dart con mapas, geolocalización, seguimiento en vivo y publicación en Google Play; marketplaces y servicios de entregas.
+- **Productos con IA e integración de plataformas:** funciones de IA dentro de aplicaciones reales, como un monitor de precios con sugerencias generadas por IA, y plataformas de IA conectadas a otros sistemas mediante APIs.
 - **IA eficiente para dispositivos de bajos recursos:** cuantización y compresión de modelos.
 - **Optimización y cómputo evolutivo:** evolución diferencial y búsqueda multiobjetivo.
 - **Hardware, IoT y sistemas embebidos:** proyectos STEM y diseño de circuitos y hardware digital con Verilog.
@@ -34,15 +34,22 @@ Aprendizaje automático, computación evolutiva (algoritmos genéticos, evoluci�
 
 ## 🚀 Proyectos destacados
 
-### 📱 Producto en producción: Kiwik Maben
+### 📱 Kiwik Maben: super-app de marketplace y entregas
 
-Aplicación de **entrega de última milla** para mandados y paquetes con repartidores en moto, publicada en Google Play. La construí de forma individual, de punta a punta:
+Plataforma que construí de forma individual, de punta a punta, y que está publicada en Google Play. Reúne varios módulos sobre una misma base:
 
-- App móvil en **Flutter** con mapas, geolocalización y seguimiento GPS del repartidor en tiempo real.
-- Backend en **Node.js + Express + MySQL**, con autenticación multirol (JWT) y comunicación en tiempo real por **Socket.IO**.
-- Infraestructura propia en la nube, publicación en tienda y soporte al usuario.
+- **Marketplace C2C** entre compradores y vendedores, con vendedores de negocios establecidos.
+- **Motoservicio y entregas de última milla:** mandados y paquetes con repartidores en moto, con seguimiento GPS en tiempo real. Es el servicio con el que la app está en producción.
+- **Taxi, sistema de publicidad (modelo de monetización), reels de influencers y directorio de servicios** (Sección Amarilla).
+- **Autenticación multirol** (comprador, vendedor, repartidor, taxista) y control de módulos mediante banderas de funcionalidad.
+
+Tecnología: **Flutter** (app móvil con mapas y geolocalización), **Node.js + Express + MySQL** (API), **Socket.IO** (tiempo real) y **JWT**, con infraestructura propia en la nube.
 
 Recursos de soporte: [Política de privacidad](https://github.com/cflores23/kiwik-maben-privacy) · [Solicitud de eliminación de cuenta](https://github.com/cflores23/kiwik-erasure)
+
+### 🤖 Nexus IA: plataforma de IA integrada con Kiwik Maben
+
+Plataforma de inteligencia artificial diseñada para conectarse con Kiwik Maben. Definí el diseño técnico completo: modelo de datos, contratos de API entre ambos sistemas y orden de implementación por fases, con un identificador puente (`pedido_externo_id`) que permite vincular los pedidos de ambas plataformas desde el inicio.
 
 ### 🧠 Proyectos de IA y optimización
 
@@ -69,3 +76,4 @@ Recursos de soporte: [Política de privacidad](https://github.com/cflores23/kiwi
 - Correo: forca2375@gmail.com
 
 Me interesa colaborar en proyectos de IA eficiente, optimización y sistemas embebidos.
+
