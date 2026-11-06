@@ -2,7 +2,7 @@
 
 **Ingeniero fullstack e IA aplicada** · Maestro en Computación Aplicada (especialidad en Inteligencia Artificial y Ciencia de Datos). Actualmente soy candidato a Doctor en Ciencias del Software.
 
-En el área de investigación, mis intereses son el Aprendizaje Automático (Machine Learning), la Computación Evolutiva (Algoritmos genéticos, Evolución Diferencial...), la Inteligencia Colectiva (Optimización mediante Cúmulo de Partículas, Bacterias y Abejas...); así como la optimización multiobjetivo y el manejo de restricciones. Así mismo, la aplicación de técnicas bio-inspiradas al área de visión artificial y aprendizaje automático. 
+En el área de investigación, mis intereses son el Aprendizaje Automático (Machine Learning), la Computación Evolutiva (Algoritmos genéticos, Evolución Diferencial...), la Inteligencia Colectiva (Optimización mediante Cúmulo de Partículas, Bacterias y Abejas...); así como la optimización multiobjetivo y el manejo de restricciones. Así mismo, la aplicación de técnicas bio-inspiradas al área de visión artificial y aprendizaje automático. Así como la robótica móvil y de vuelo, como drones.
 
 <!-- Si tienes doctorado, actualiza esta línea con tu grado exacto -->
 
@@ -20,8 +20,8 @@ Hardware, IoT y proyectos STEM: además del desarrollo de software, tengo experi
 - **Apps móviles en producción:** desarrollo en Flutter/Dart, con mapas, geolocalización, seguimiento en vivo y publicación en Google Play.
 - **SaaS y productos con IA:** funciones de IA integradas en aplicaciones reales, como un monitor de precios con sugerencias generadas por IA.
 - **IA eficiente para dispositivos de bajos recursos:** cuantización y compresión de modelos.
-- **Optimización y cómputo evolutivo:** evolución diferencial, búsqueda multiobjetivo.
-- **En exploración:** diseño digital de hardware (Verilog) y planeación de rutas para vehículos autónomos.
+- **Optimización y cómputo evolutivo:** evolución diferencial, búsqueda multiobjetivo, por mencionar algunos.
+- **En exploración:** diseño digital de hardware (Verilog) y planeación de rutas para vehículos autónomos (Robótica).
 
 ## 🧰 Stack
 
