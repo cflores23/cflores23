@@ -47,9 +47,13 @@ Tecnología: **Flutter** (app móvil con mapas y geolocalización), **Node.js + 
 
 Recursos de soporte: [Política de privacidad](https://github.com/cflores23/kiwik-maben-privacy) · [Solicitud de eliminación de cuenta](https://github.com/cflores23/kiwik-erasure)
 
-### 🤖 Nexus IA: plataforma de IA integrada con Kiwik Maben
+### 🤖 Nexus IA: plataforma para crear agentes de ventas y citas en WhatsApp
 
-Plataforma de inteligencia artificial diseñada para conectarse con Kiwik Maben. Definí el diseño técnico completo: modelo de datos, contratos de API entre ambos sistemas y orden de implementación por fases, con un identificador puente (`pedido_externo_id`) que permite vincular los pedidos de ambas plataformas desde el inicio.
+Plataforma que permite a dueños de negocios crear sus propios agentes de IA para WhatsApp, que venden y agendan citas de forma automática:
+
+- **Agentes de ventas:** atienden a los clientes por WhatsApp y concretan ventas.
+- **RAG sobre archivos del negocio:** leen documentos Excel, PDF y CSV para responder con información real y actualizar inventarios en una base de datos genérica, de modo que cada venta se refleje automáticamente en el inventario.
+- **Agenda de citas:** integración con Google Calendar; cada cita se guarda en el calendario y, al mismo tiempo, en la base de datos.
 
 ### 🧠 Proyectos de IA y optimización
 
