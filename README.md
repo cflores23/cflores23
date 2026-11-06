@@ -10,7 +10,7 @@ Construyo productos de software completos y los pongo en producción: app móvil
 
 Hardware, IoT y proyectos STEM: además del desarrollo de software, tengo experiencia en proyectos STEM, IoT y sistemas embebidos, y en diseño de circuitos y hardware digital con Verilog. Me interesa llevar la IA eficiente al borde, es decir, modelos ligeros corriendo en dispositivos de bajo costo y hardware dedicado.
 
-🌎 **Disponible para trabajo remoto** como ingeniero fullstack, desarrollador móvil (Flutter) o ingeniero de IA aplicada. Contrato o tiempo completo.
+🌎 **Disponible para trabajo remoto** como ingeniero fullstack, desarrollador móvil (Flutter) o ingeniero de IA aplicada. De preferencia por Contrato.
 
 <!-- Opcional: añade tu zona horaria (ej. "UTC−6, centro de México") y tu nivel de inglés -->
 
