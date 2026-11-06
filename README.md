@@ -65,7 +65,7 @@ Plataforma que permite a dueños de negocios crear sus propios agentes de IA par
 
 ## 🌱 En curso
 
-- Planificador híbrido en 2D que combina A* con evolución diferencial para refinar rutas, con medición de tiempos en hardware de bajo costo (Raspberry Pi).
+- Planificador híbrido para vuelos de drones en 2D que combina A* con evolución diferencial para refinar rutas, con medición de tiempos en hardware de bajo costo (Raspberry Pi).
 - Llevar la IA eficiente hacia el hardware con diseño digital en Verilog.
 
 ## 💼 Cómo puedo ayudar a tu equipo
